@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently working on frontend developer and learning about GitHub.
+
 <!--
 **MilenaGandy/MilenaGandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
